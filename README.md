@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Harshul, a high school student from Ontario, Canada. I'm currently working on helper, a command line app (made with Rust) to help keep track of tests and assignments and homework with everything moving online. I'm currently in the process of learning Rust and C/C++ (as part of the Crafting Interpreters book). To talk to me, feel free to e-mail me anytime. 
+I'm Harshul, a Computer Engineering student at the University of Waterloo. I'm currently working on learning more about machine learning and quantum computing. To talk to me, feel free to e-mail me anytime. 
